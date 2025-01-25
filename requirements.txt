@@ -1,7 +1,3 @@
-pandas
-matplotlib
-plotly
-pycaret
-scikit-learn
-scipy
-numpy
+streamlit
+pycaret==3.0.0
+scikit-learn<1.3
